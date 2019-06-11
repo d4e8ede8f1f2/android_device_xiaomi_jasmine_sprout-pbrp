@@ -1,4 +1,4 @@
-# TWRP Device configuration for Xiaomi Mi A2
+# PBRP Device configuration for Xiaomi Mi A2
 
 ## Device specifications
 
